@@ -11,7 +11,7 @@ Get the value from the user
 ### Step 2: 
 Assign the values
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](./formula.JPG
+Substitute the values in the distance formula  ![formula](./formula.JPG)
 ### Step 4:
  print the result
 ### Step 5: 
