@@ -19,7 +19,6 @@ End the program
 
 ### PROGRAM:
 ```python
-
   #Program to find the distance between two points.
 #Developed by: Pavithra.M
 #RegisterNumber: 22008686
